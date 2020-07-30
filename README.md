@@ -1,4 +1,6 @@
-Alamance Final Project - CoronavirusTracker
+ Intro to Mobile Programming Final Project - CoronavirusTracker
+
+Created by: Stephanie Zhang, Jen Li, Martin Stoyanov, Lindsay Maggioncalda, Matt Rose
 
 We built an app to help people stay safe during the COVID-19 pandemic.
 Note: app is currently compatible with iPhone 11 Max and iPhone 8 Plus on portrait mode only.
